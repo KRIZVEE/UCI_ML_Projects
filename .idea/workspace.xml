@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5eac6e49-ae83-4897-9b7a-3f09a3b314e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yfo4Zofa23eTKTZ570FNsNCNtR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5eac6e49-ae83-4897-9b7a-3f09a3b314e3" name="Default Changelist" comment="" />
+      <created>1583342818774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583342818774</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="380" y="342" key="svn.passwordDialog" timestamp="1583345820825">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="380" y="342" key="svn.passwordDialog/0.23.1440.822@0.23.1440.822" timestamp="1583345820825" />
+    <state x="432" y="127" width="594" height="618" key="svn.repositoryBrowser" timestamp="1583345891276">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="432" y="127" width="594" height="618" key="svn.repositoryBrowser/0.23.1440.822@0.23.1440.822" timestamp="1583345891276" />
+    <state x="521" y="342" key="svn.upgradeDialog" timestamp="1583345894303">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="521" y="342" key="svn.upgradeDialog/0.23.1440.822@0.23.1440.822" timestamp="1583345894303" />
+  </component>
+</project>
